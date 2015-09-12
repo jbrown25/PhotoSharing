@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PhotoSharing/libs/android-support-v4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PhotoSharing/libs/universal-image-loader-1.9.2-with-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PhotoSharing/libs/android-async-http-1.4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

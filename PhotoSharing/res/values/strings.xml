@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simple Photosharing App</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="wait">Wait. . .</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_photos_list">PhotosListActivity</string>
+    <string name="title_activity_photos_pager">PhotosPagerActivity</string>
+    <string name="your_photos">Your Photos</string>
+    <string name="upload">Upload a picture</string>
+    <string name="camera">Camera</string>
+    <string name="device">Device</string>
+    <string name="title_activity_upload">UploadActivity</string>
+    <string name="upload_submit">Submit this photo?</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="caption">Caption</string>
+    <string name="photo">Photo</string>
+</resources>

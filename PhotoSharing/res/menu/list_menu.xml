@@ -1,0 +1,19 @@
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/your_photos"
+            android:title="@string/your_photos"
+            android:text="@string/your_photos"
+            android:showAsAction="ifRoom|withText" />
+        <item
+            android:id="@+id/upload_photo"
+            android:title="@string/upload"
+            android:text="@string/upload"
+            android:showAsAction="ifRoom|withText" />
+        <item
+            android:id="@+id/logout_menu"
+            android:title="@string/logout"
+            android:text="@string/logout"
+            android:showAsAction="ifRoom|withText" />
+    </menu>
+	
