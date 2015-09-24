@@ -1,5 +1,5 @@
 # PhotoSharing
-A very simple photo sharing app I built for an Android class at Seattle Central College. It uses <a href="http://loopj.com/android-async-http/">Android Asynchronous Http Client</a> for API calls and <a href="https://github.com/nostra13/Android-Universal-Image-Loader">Android Universal Image Loader</a> for image handling. 
+A very simple photo sharing app. It uses <a href="http://loopj.com/android-async-http/">Android Asynchronous Http Client</a> for API calls and <a href="https://github.com/nostra13/Android-Universal-Image-Loader">Android Universal Image Loader</a> for image handling. 
 
 <h2>Features:</h2>
 
